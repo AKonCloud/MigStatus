@@ -487,7 +487,7 @@ body {
   }
   .wrapper > section,
   .wrapper > footer {
-    margin-left: 220px;
+    margin-left: 0px;
   }
   .wrapper > section.has-sidebar-right {
     margin-right: 240px;
@@ -1021,7 +1021,7 @@ _:-ms-lang(x),
 }
 @media only screen and (min-width: 768px) {
   .topnavbar .navbar-header {
-    width: 220px;
+    width: 0px;
     text-align: center;
   }
   .topnavbar .navbar-header .navbar-brand {
@@ -1182,7 +1182,7 @@ _:-ms-lang(x),
 }
 @media only screen and (min-width: 768px) {
   .topnavbar .navbar-form {
-    left: 220px;
+    left: 0px;
   }
 }
 @media only screen and (min-width: 768px) {
@@ -3162,7 +3162,7 @@ x:-o-prefocus,
 }
 .dropdown-list > .dropdown-menu {
   padding: 0;
-  min-width: 220px;
+  min-width: 0px;
 }
 .dropdown-list .list-group {
   margin: 0;
