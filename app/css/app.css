@@ -372,7 +372,7 @@ body {
 }
 .wrapper > .aside {
   position: absolute;
-  width: 220px;
+  width: 0px;
   top: 0;
   left: 0;
   bottom: 0;
@@ -385,12 +385,12 @@ body {
 .wrapper > .aside .aside-inner {
   padding-top: 110px;
   height: 100%;
-  width: 220px;
+  width: 0px;
   overflow: hidden;
 }
 .wrapper > .aside > .nav-floating {
   left: inherit;
-  margin-left: 220px;
+  margin-left: 0px;
   z-index: 1110;
   min-width: 190px;
   overflow: auto;
