@@ -498,11 +498,11 @@ body {
 }
 @media only screen and (max-width: 767px) {
   .wrapper > .aside {
-    margin-left: -220px;
+    margin-left: 0px;
   }
   .aside-toggled .wrapper > section,
   .aside-toggled .wrapper > footer {
-    margin-left: 220px;
+    margin-left: 0px;
   }
   .aside-toggled .wrapper > .aside {
     margin-left: 0;
