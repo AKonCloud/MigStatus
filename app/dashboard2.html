@@ -1,12 +1,13 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-   <meta name="description" content="Azure Migration Dashboard">
-   <meta name="keywords" content="azure, migration, dashboard">
-   <title>Migration Dashboard</title>
+   <meta name="description" content="Bootstrap Admin App + jQuery">
+   <meta name="keywords" content="app, responsive, jquery, bootstrap, dashboard, admin">
+   <title>rhipe - Migration Dashboard</title>
    <!-- =============== VENDOR STYLES ===============-->
    <!-- FONT AWESOME-->
    <link rel="stylesheet" href="../vendor/fontawesome/css/font-awesome.min.css">
@@ -35,7 +36,15 @@
             <div class="content-heading">
                <!-- START Language list-->
                <div class="pull-right">
-BETA v0.1
+                  <div class="btn-group">
+                     <button type="button" data-toggle="dropdown" class="btn btn-default">Indonesia Western UTC+07:00</button>
+                     <ul role="menu" class="dropdown-menu dropdown-menu-right animated fadeInUpShort">
+                        <li><a href="#" data-set-lang="en">Indonesia Western UTC+07:00</a>
+                        </li>
+                        <li><a href="#" data-set-lang="es">Australian Eastern Standard UTC+11:00 </a>
+                        </li>
+                     </ul>
+                  </div>
                </div>
                <!-- END Language list    -->
                Migration Dashboard
@@ -54,8 +63,13 @@ BETA v0.1
                      <div class="panel-body bb">
                         <div class="table-grid table-grid-align-middle mv">
                            <div class="col">
-                              <p class="text-center">Progress</p>
-                              <canvas data-classyloader="" data-percentage="40" data-speed="20" data-font-size="40px" data-diameter="70" data-line-color="#23b7e5" data-remaining-line-color="rgba(200,200,200,0.4)" data-line-width="10" data-rounded-line="true" class="center-block js-is-in-view" width="200" height="200" ></canvas>
+                              <p class="text-left">Overall progress</p>
+                              <div class="progress progress-xs m0">
+                                 <div style="width: 48%" class="progress-bar progress-bar-info">48%</div>
+                              </div>
+                           </div>
+                           <div class="col wd-xxs text-right">
+                              <div class="text-bold text-muted">48%</div>
                            </div>
                         </div>
                      </div>
@@ -114,9 +128,9 @@ BETA v0.1
                               </td>
                               <td>8AM</td>
                            </tr>
-                           <tr valign="top">
-                              <td valign="top">
-                                 <strong valign="top">Support</strong>
+                           <tr>
+                              <td>
+                                 <strong>Support</strong>
                               </td>
                               <td>
                                  <p>+61 3 3265 5555</p>
@@ -412,12 +426,7 @@ BETA v0.1
                </div>
             
       <!-- Page footer-->
-            <!-- Page footer-->
-      <footer>
-         <span>&copy; 2016 - Andrey Korenkov - Twitter: @AKonCloud</span>
-      </footer>
    </div>
-  
    <!-- =============== VENDOR SCRIPTS ===============-->
    <!-- MODERNIZR-->
    <script src="../vendor/modernizr/modernizr.custom.js"></script>
