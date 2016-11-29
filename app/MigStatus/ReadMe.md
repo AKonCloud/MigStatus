@@ -88,6 +88,72 @@ Application to be run using Azure Web App with code stored and published from Gi
 <br>vhds – Container Name
 <br>APPL-20160630-154426 – VHD Name
 <p>All Other – Property and Value mapping to Web App
+<table>
+  <tr>
+    <th>Property</th>
+    <th>Value</th> 
+  </tr>
+      <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+        <tr>
+    <td></td>
+    <td></td> 
+  </tr>
+  </table>
 <br>CloudService – Fig9
 <br>VMName – Fig10
 <br>DiskName – Fig11
