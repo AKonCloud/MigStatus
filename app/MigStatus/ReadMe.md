@@ -94,82 +94,67 @@ Application to be run using Azure Web App with code stored and published from Gi
     <th>Value</th> 
   </tr>
       <tr>
-    <td></td>
+    <td>CloudService</td>
     <td>Fig9</td> 
   </tr>
         <tr>
-    <td></td>
+    <td>VMName</td>
     <td>Fig10</td> 
   </tr>
         <tr>
-    <td></td>
+    <td>DiskName</td>
     <td>Fig11</td> 
   </tr>
         <tr>
-    <td></td>
+    <td>CopiedBytes</td>
     <td>Not to be displayed</td> 
   </tr>
         <tr>
-    <td></td>
+    <td>CopiedKBytes</td>
     <td>Not to be displayed</td> 
   </tr>
         <tr>
-    <td></td>
+    <td>CopiedMBytes</td>
     <td>Not to be displayed</td> 
   </tr>
         <tr>
-    <td></td>
+    <td>CopiedGBytes</td>
     <td>Fig12</td> 
   </tr>
         <tr>
-    <td></td>
+    <td>CopiedTBytes</td>
     <td>Not to be displayed</td> 
   </tr>
         <tr>
-    <td></td>
+    <td>CopiedPercent</td>
     <td>Fig13</td> 
   </tr>
         <tr>
-    <td></td>
+    <td>CopyingStatus</td>
     <td>Fig14</td> 
   </tr>
         <tr>
-    <td></td>
+    <td>TotalBytes</td>
     <td>Not to be displayed</td> 
   </tr>
         <tr>
-    <td></td>
-    <td>Not to be displayedNot to be displayed</td> 
-  </tr>
-        <tr>
-    <td></td>
+    <td>TotalKBytes</td>
     <td>Not to be displayed</td> 
   </tr>
         <tr>
-    <td></td>
+    <td>TotalMBytes</td>
+    <td>Not to be displayed</td> 
+  </tr>
+        <tr>
+    <td>TotalGBytes</td>
     <td>Fig15</td> 
   </tr>
         <tr>
-    <td></td>
+    <td>TotalTBytes</td>
     <td>Not to be displayed</td> 
   </tr>
   </table>
-<br>CloudService – Fig9
-<br>VMName – Fig10
-<br>DiskName – Fig11
-<br>CopiedBytes – Not to be displayed
-<br>CopiedKBytes – Not to be displayed
-<br>CopiedMBytes – Not to be displayed
-<br>CopiedGBytes – Fig12
-<br>CopiedTBytes – Not to be displayed 
-<br>CopiedPercent – Fig13
-<br>CopyingStatus – Fig14
-<br>TotalBytes – Not to be displayed
-<br>TotalKBytes – Not to be displayed
-<br>TotalMBytes – Not to be displayed
-<br>TotalTGbytes – Fig15
-<br>TotalTBytes – Not to be displayed
-<p><p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
+<p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
 <h2>How to display the data</h2>
 <br>Combine all DiskName with same VMName under VMName on Web App
 
