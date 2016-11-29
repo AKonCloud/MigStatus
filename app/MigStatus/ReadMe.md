@@ -51,15 +51,36 @@ Application to be run using Azure Web App with code stored and published from Gi
     <td>StartTime</td>
     <td>Fig6</td> 
   </tr>
+      <tr>
+    <td>StatusAssessmen</td>
+    <td>Fig7 (Orange if Current, Green if True, Grey if False)</td> 
+  </tr>
+      <tr>
+    <td>StatusComplete</td>
+    <td>Fig7 (Orange if Current, Green if True, Grey if False)</td> 
+  </tr>
+      <tr>
+    <td>StatusMigrate</td>
+    <td>Fig7 (Orange if Current, Green if True, Grey if False)</td> 
+  </tr>
+      <tr>
+    <td>StatusSignOFf</td>
+    <td>Fig7 (Orange if Current, Green if True, Grey if False)</td> 
+  </tr>
+      <tr>
+    <td>StatusSignOn</td>
+    <td>Fig7 (Orange if Current, Green if True, Grey if False)</td> 
+  </tr>
+      <tr>
+    <td>TimeZone</td>
+    <td>Not to be displayed</td> 
+  </tr>
+      <tr>
+    <td>TotalPercent</td>
+    <td>Fig8</td> 
+  </tr>
 </table>
 
-<br>StatusAssessment – Fig7 (Orange if Current, Green if True, Grey if False)
-<br>StatusComplete – Fig7 (Orange if Current, Green if True, Grey if False)
-<br>StatusMigrate – Fig7 (Orange if Current, Green if True, Grey if False)
-<br>StatusSignOFf – Fig7 (Orange if Current, Green if True, Grey if False)
-<br>StatusSignOn – Fig7 (Orange if Current, Green if True, Grey if False)
-<br>TimeZone – Not to be displayed
-<br>TotalPercent – Fig8
 <p><p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
 <p><b>Row Key = All Other</b> – Row Key Information
 <br>datastdarm.vhds.APPL-20160630-154426
