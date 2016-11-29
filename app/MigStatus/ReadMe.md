@@ -95,63 +95,63 @@ Application to be run using Azure Web App with code stored and published from Gi
   </tr>
       <tr>
     <td></td>
-    <td></td> 
+    <td>Fig9</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Fig10</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Fig11</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Not to be displayed</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Not to be displayed</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Not to be displayed</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Fig12</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Not to be displayed</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Fig13</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Fig14</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Not to be displayed</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Not to be displayedNot to be displayed</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Not to be displayed</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Fig15</td> 
   </tr>
         <tr>
     <td></td>
-    <td></td> 
+    <td>Not to be displayed</td> 
   </tr>
   </table>
 <br>CloudService – Fig9
