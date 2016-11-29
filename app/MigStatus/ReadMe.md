@@ -13,7 +13,7 @@ Application to be run using Azure Web App with code stored and published from Gi
 <p><b>Row Keys</b>
 <br>MigDetails – Contains static details such as customer name, etc.
 <br>All other – Contains all progress information
-<p>MigDetails – Property and Value mapping to Web App
+<p><b>Row Key = MigDetails</b> – Property and Value mapping to Web App
 <br>CustomerName – Fig1
 <br>CutOffDate – Fig2
 <br>CutOffTime – Fig3
@@ -30,7 +30,7 @@ Application to be run using Azure Web App with code stored and published from Gi
 <br>TimeZone – Not to be displayed
 <br>TotalPercent – Fig8
 
-<p><b>All Other</b> – Row Key Information
+<p><b>Row Key = All Other</b> – Row Key Information
 datastdarm.vhds.APPL-20160630-154426
 datastdarm – Account Name
 vhds – Container Name
