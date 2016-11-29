@@ -54,7 +54,7 @@ TotalTBytes – Not to be displayed
 <h2>How to display the data</h2>
 Combine all DiskName with same VMName under VMName on Web App
 
-Sample
+<img>MigStatusSec1.png</img>
 
 Combine all VMName with same CloudService on Web App
 
