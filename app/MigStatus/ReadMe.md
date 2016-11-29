@@ -12,8 +12,8 @@ Application to be run using Azure Web App with code stored and published from Gi
 <br>This groups and identifies each individual unique migration
 <p><b>Row Keys</b>
 <br>MigDetails – Contains static details such as customer name, etc.
-<p><b>All other</b> – Contains all progress information
-<br>MigDetails – Property and Value mapping to Web App
+<be>All other – Contains all progress information
+<p>MigDetails – Property and Value mapping to Web App
 <br>CustomerName – Fig1
 <br>CutOffDate – Fig2
 <br>CutOffTime – Fig3
