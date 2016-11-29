@@ -9,26 +9,26 @@ Application to be run using Azure Web App with code stored and published from Gi
 <br>https://migstatus.table.core.windows.net/?sv=2015-04-05&ss=t&srt=c&sp=r&se=2017-01-31T17:14:33Z&st=2016-11-29T09:14:33Z&spr=https,http&sig=W7XcS7QVB5UbadfODu5YcAt8HhFPZsZPAD8b3pZgjjw%3D
 <h2>Data Guidelines</h2>
 Partition Key
-This groups and identifies each individual unique migration
-Row Keys
-MigDetails – Contains static details such as customer name, etc.
-All other – Contains all progress information
-MigDetails – Property and Value mapping to Web App
-CustomerName – Fig1
-CutOffDate – Fig2
-CutOffTime – Fig3
-EstimatedHours – Fig4
-PartnerMPN – Not to be displayed
-PartnerName – Not to be displayed
-StartDate – Fig5
-StartTime – Fig6
-StatusAssessment – Fig7 (Orange if Current, Green if True, Grey if False)
-StatusComplete – Fig7 (Orange if Current, Green if True, Grey if False)
-StatusMigrate – Fig7 (Orange if Current, Green if True, Grey if False)
-StatusSignOFf – Fig7 (Orange if Current, Green if True, Grey if False)
-StatusSignOn – Fig7 (Orange if Current, Green if True, Grey if False)
-TimeZone – Not to be displayed
-TotalPercent – Fig8
+<br>This groups and identifies each individual unique migration
+<p>Row Keys
+<br>MigDetails – Contains static details such as customer name, etc.
+<p>All other – Contains all progress information
+<br>MigDetails – Property and Value mapping to Web App
+<br>CustomerName – Fig1
+<br>CutOffDate – Fig2
+<br>CutOffTime – Fig3
+<br>EstimatedHours – Fig4
+<br>PartnerMPN – Not to be displayed
+<br>PartnerName – Not to be displayed
+<br>StartDate – Fig5
+<br>StartTime – Fig6
+<br>StatusAssessment – Fig7 (Orange if Current, Green if True, Grey if False)
+<br>StatusComplete – Fig7 (Orange if Current, Green if True, Grey if False)
+<br>StatusMigrate – Fig7 (Orange if Current, Green if True, Grey if False)
+<br>StatusSignOFf – Fig7 (Orange if Current, Green if True, Grey if False)
+<br>StatusSignOn – Fig7 (Orange if Current, Green if True, Grey if False)
+<br>TimeZone – Not to be displayed
+<br>TotalPercent – Fig8
 
 All Other – Row Key Information
 datastdarm.vhds.APPL-20160630-154426
