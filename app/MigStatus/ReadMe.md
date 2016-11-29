@@ -14,14 +14,45 @@ Application to be run using Azure Web App with code stored and published from Gi
 <br>MigDetails – Contains static details such as customer name, etc.
 <br>All other – Contains all progress information
 <p><b>Row Key = MigDetails</b> – Property and Value mapping to Web App
-<br>CustomerName – Fig1
-<br>CutOffDate – Fig2
-<br>CutOffTime – Fig3
-<br>EstimatedHours – Fig4
-<br>PartnerMPN – Not to be displayed
-<br>PartnerName – Not to be displayed
-<br>StartDate – Fig5
-<br>StartTime – Fig6
+<table>
+  <tr>
+    <th>Property</th>
+    <th>Value</th> 
+  </tr>
+  <tr>
+    <td>CustomerName</td>
+    <td>Fig1</td> 
+  </tr>
+  <tr>
+    <td>CutOffDate</td>
+    <td>Fig2</td> 
+  </tr>
+    <tr>
+    <td>CutOffTime</td>
+    <td>Fig3</td> 
+  </tr>
+      <tr>
+    <td>EstimatedHours</td>
+    <td>Fig4</td> 
+  </tr>
+      <tr>
+    <td>PartnerMPN</td>
+    <td>Not to be displayed</td> 
+  </tr>
+      <tr>
+    <td>PartnerName</td>
+    <td>Not to be displayed</td> 
+  </tr>
+      <tr>
+    <td>StartDate</td>
+    <td>Fig5</td> 
+  </tr>
+      <tr>
+    <td>StartTime</td>
+    <td>Fig6</td> 
+  </tr>
+</table>
+
 <br>StatusAssessment – Fig7 (Orange if Current, Green if True, Grey if False)
 <br>StatusComplete – Fig7 (Orange if Current, Green if True, Grey if False)
 <br>StatusMigrate – Fig7 (Orange if Current, Green if True, Grey if False)
