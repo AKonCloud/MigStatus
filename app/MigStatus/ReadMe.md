@@ -79,6 +79,18 @@ Application to be run using Azure Web App with code stored and published from Gi
     <td>TotalPercent</td>
     <td>Fig8</td> 
   </tr>
+        <tr>
+    <td>TotalCloudServices</td>
+    <td>Fig9</td> 
+  </tr>
+        <tr>
+    <td>TotalVMs</td>
+    <td>Fig10</td> 
+  </tr>
+        <tr>
+    <td>TotalTBs>
+    <td>Fig11</td> 
+  </tr>
 </table>
 
 <p><p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
