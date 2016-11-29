@@ -7,7 +7,7 @@ SAS Token
 ?sv=2015-04-05&ss=t&srt=c&sp=r&se=2017-01-31T17:14:33Z&st=2016-11-29T09:14:33Z&spr=https,http&sig=W7XcS7QVB5UbadfODu5YcAt8HhFPZsZPAD8b3pZgjjw%3D
 SAS URL
 https://migstatus.table.core.windows.net/?sv=2015-04-05&ss=t&srt=c&sp=r&se=2017-01-31T17:14:33Z&st=2016-11-29T09:14:33Z&spr=https,http&sig=W7XcS7QVB5UbadfODu5YcAt8HhFPZsZPAD8b3pZgjjw%3D
-Data Guidelines
+<h2>Data Guidelines</h2>
 Partition Key
 This groups and identifies each individual unique migration
 Row Keys
@@ -51,14 +51,14 @@ TotalKBytes – Not to be displayed
 TotalMBytes – Not to be displayed
 TotalTGbytes – Fig15
 TotalTBytes – Not to be displayed
-How to display the data
+<h2>How to display the data</h2>
 Combine all DiskName with same VMName under VMName on Web App
 
-<<Sample>>
+Sample
 
 Combine all VMName with same CloudService on Web App
 
-<<Sample>>
+Sample
 
 DiskName sorting
 Show DiskName where Row Key Container starts with OSS at the top
