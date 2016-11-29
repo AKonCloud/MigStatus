@@ -1,5 +1,5 @@
 <h1>Azure Migration Dashboard</h1>
-Application Requirements
+<h2>Application Requirements</h2>
 Application to be run using Azure Web App with code stored and published from GitHub
 Data will be store in Azure Table Storage
 Azure Table Storage Read-Only Access
