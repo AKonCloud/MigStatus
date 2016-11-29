@@ -29,7 +29,7 @@ Application to be run using Azure Web App with code stored and published from Gi
 <br>StatusSignOn – Fig7 (Orange if Current, Green if True, Grey if False)
 <br>TimeZone – Not to be displayed
 <br>TotalPercent – Fig8
-
+<p><p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
 <p><b>Row Key = All Other</b> – Row Key Information
 <br>datastdarm.vhds.APPL-20160630-154426
 <br>datastdarm – Account Name
@@ -51,6 +51,7 @@ Application to be run using Azure Web App with code stored and published from Gi
 <br>TotalMBytes – Not to be displayed
 <br>TotalTGbytes – Fig15
 <br>TotalTBytes – Not to be displayed
+<p><p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
 <h2>How to display the data</h2>
 <br>Combine all DiskName with same VMName under VMName on Web App
 
