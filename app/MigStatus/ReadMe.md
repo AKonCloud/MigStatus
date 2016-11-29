@@ -99,10 +99,10 @@ Application to be run using Azure Web App with code stored and published from Gi
 
 <p><p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
 <p><b>Row Key = All Other</b> – Row Key Information
-<br>datastdarm.vhds.APPL-20160630-154426
-<br>datastdarm – Account Name
+<br>datastdarm.vhds.APPL-20160630-154426.vhd
+<br>datastdarm – Storage Account Name
 <br>vhds – Container Name
-<br>APPL-20160630-154426 – VHD Name
+<br>APPL-20160630-154426.vhd – VHD Name
 <p>All Other – Property and Value mapping to Web App
 <table>
   <tr>
