@@ -1,7 +1,7 @@
 <h1>Azure Migration Dashboard</h1>
 <h2>Application Requirements</h2>
-Application to be run using Azure Web App with code stored and published from GitHub
-Data will be store in Azure Table Storage
+<p>Application to be run using Azure Web App with code stored and published from GitHub
+<p>Data will be store in Azure Table Storage
 Azure Table Storage Read-Only Access
 SAS Token
 ?sv=2015-04-05&ss=t&srt=c&sp=r&se=2017-01-31T17:14:33Z&st=2016-11-29T09:14:33Z&spr=https,http&sig=W7XcS7QVB5UbadfODu5YcAt8HhFPZsZPAD8b3pZgjjw%3D
@@ -58,7 +58,7 @@ Combine all DiskName with same VMName under VMName on Web App
 
 Combine all VMName with same CloudService on Web App
 
-Sample
+![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec2.png)
 
 DiskName sorting
 Show DiskName where Row Key Container starts with OSS at the top
