@@ -1,4 +1,4 @@
-<h2>Azure Migration Dashboard</h2>
+<h1>Azure Migration Dashboard</h1>
 Application Requirements
 Application to be run using Azure Web App with code stored and published from GitHub
 Data will be store in Azure Table Storage
