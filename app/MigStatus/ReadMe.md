@@ -54,7 +54,7 @@ TotalTBytes – Not to be displayed
 <h2>How to display the data</h2>
 Combine all DiskName with same VMName under VMName on Web App
 
-<img>MigStatusSec1.png</img>
+![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
 
 Combine all VMName with same CloudService on Web App
 
