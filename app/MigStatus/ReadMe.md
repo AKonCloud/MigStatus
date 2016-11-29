@@ -91,6 +91,10 @@ Application to be run using Azure Web App with code stored and published from Gi
     <td>TotalTBs</td>
     <td>Fig11</td> 
   </tr>
+          <tr>
+    <td>SupportNumber</td>
+    <td>Fig12</td> 
+  </tr>
 </table>
 
 <p><p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
