@@ -8,11 +8,11 @@ Application to be run using Azure Web App with code stored and published from Gi
 <p><b>SAS URL</b>
 <br>https://migstatus.table.core.windows.net/?sv=2015-04-05&ss=t&srt=c&sp=r&se=2017-01-31T17:14:33Z&st=2016-11-29T09:14:33Z&spr=https,http&sig=W7XcS7QVB5UbadfODu5YcAt8HhFPZsZPAD8b3pZgjjw%3D
 <h2>Data Guidelines</h2>
-Partition Key
+<b>Partition Key</b>
 <br>This groups and identifies each individual unique migration
-<p>Row Keys
+<p><b>Row Keys</b>
 <br>MigDetails – Contains static details such as customer name, etc.
-<p>All other – Contains all progress information
+<p><b>All other</b> – Contains all progress information
 <br>MigDetails – Property and Value mapping to Web App
 <br>CustomerName – Fig1
 <br>CutOffDate – Fig2
@@ -30,7 +30,7 @@ Partition Key
 <br>TimeZone – Not to be displayed
 <br>TotalPercent – Fig8
 
-All Other – Row Key Information
+<p><b>All Other</b> – Row Key Information
 datastdarm.vhds.APPL-20160630-154426
 datastdarm – Account Name
 vhds – Container Name
