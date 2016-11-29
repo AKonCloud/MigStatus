@@ -31,40 +31,39 @@ Application to be run using Azure Web App with code stored and published from Gi
 <br>TotalPercent – Fig8
 
 <p><b>Row Key = All Other</b> – Row Key Information
-datastdarm.vhds.APPL-20160630-154426
-datastdarm – Account Name
-vhds – Container Name
-APPL-20160630-154426 – VHD Name
-All Other – Property and Value mapping to Web App
-CloudService – Fig9
-VMName – Fig10
-DiskName – Fig11
-CopiedBytes – Not to be displayed
-CopiedKBytes – Not to be displayed
-CopiedMBytes – Not to be displayed
-CopiedGBytes – Fig12
-CopiedTBytes – Not to be displayed 
-CopiedPercent – Fig13
-CopyingStatus – Fig14
-TotalBytes – Not to be displayed
-TotalKBytes – Not to be displayed
-TotalMBytes – Not to be displayed
-TotalTGbytes – Fig15
-TotalTBytes – Not to be displayed
+<br>datastdarm.vhds.APPL-20160630-154426
+<br>datastdarm – Account Name
+<br>vhds – Container Name
+<br>APPL-20160630-154426 – VHD Name
+<p>All Other – Property and Value mapping to Web App
+<br>CloudService – Fig9
+<br>VMName – Fig10
+<br>DiskName – Fig11
+<br>CopiedBytes – Not to be displayed
+<br>CopiedKBytes – Not to be displayed
+<br>CopiedMBytes – Not to be displayed
+<br>CopiedGBytes – Fig12
+<br>CopiedTBytes – Not to be displayed 
+<br>CopiedPercent – Fig13
+<br>CopyingStatus – Fig14
+<br>TotalBytes – Not to be displayed
+<br>TotalKBytes – Not to be displayed
+<br>TotalMBytes – Not to be displayed
+<br>TotalTGbytes – Fig15
+<br>TotalTBytes – Not to be displayed
 <h2>How to display the data</h2>
-Combine all DiskName with same VMName under VMName on Web App
+<br>Combine all DiskName with same VMName under VMName on Web App
 
-![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
+<p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
 
-Combine all VMName with same CloudService on Web App
+<br>Combine all VMName with same CloudService on Web App
 
-![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec2.png)
+<p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
 
-DiskName sorting
-Show DiskName where Row Key Container starts with OSS at the top
-Show DiskName where Row Key Container starts with any other other than OSS, after OSS
-Show DiskName where CopyingStatus is Complete first
-Show DiskName where CopyingStatus is Copying second
-Show DiskName where CopyingStatus is Waiting third
-If multiple DiskName in CopyingStatus, sort alphabetically
-
+<h2>DiskName sorting</h2>
+<br>Show DiskName where Row Key Container starts with OSS at the top
+<br>Show DiskName where Row Key Container starts with any other other than OSS, after OSS
+<br>Show DiskName where CopyingStatus is Complete first
+<br>Show DiskName where CopyingStatus is Copying second
+<br>Show DiskName where CopyingStatus is Waiting third
+<br>If multiple DiskName in CopyingStatus, sort alphabetically
