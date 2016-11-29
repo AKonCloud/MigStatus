@@ -88,7 +88,7 @@ Application to be run using Azure Web App with code stored and published from Gi
     <td>Fig10</td> 
   </tr>
         <tr>
-    <td>TotalTBs>
+    <td>TotalTBs</td>
     <td>Fig11</td> 
   </tr>
 </table>
