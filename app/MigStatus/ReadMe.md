@@ -111,15 +111,15 @@ Application to be run using Azure Web App with code stored and published from Gi
   </tr>
       <tr>
     <td>CloudService</td>
-    <td>Fig9</td> 
+    <td>Fig20</td> 
   </tr>
         <tr>
     <td>VMName</td>
-    <td>Fig10</td> 
+    <td>Fig21</td> 
   </tr>
         <tr>
     <td>DiskName</td>
-    <td>Fig11</td> 
+    <td>Fig22</td> 
   </tr>
         <tr>
     <td>CopiedBytes</td>
@@ -135,7 +135,7 @@ Application to be run using Azure Web App with code stored and published from Gi
   </tr>
         <tr>
     <td>CopiedGBytes</td>
-    <td>Fig12</td> 
+    <td>Fig23</td> 
   </tr>
         <tr>
     <td>CopiedTBytes</td>
@@ -143,11 +143,11 @@ Application to be run using Azure Web App with code stored and published from Gi
   </tr>
         <tr>
     <td>CopiedPercent</td>
-    <td>Fig13</td> 
+    <td>Fig24</td> 
   </tr>
         <tr>
     <td>CopyingStatus</td>
-    <td>Fig14</td> 
+    <td>Fig25</td> 
   </tr>
         <tr>
     <td>TotalBytes</td>
@@ -163,14 +163,14 @@ Application to be run using Azure Web App with code stored and published from Gi
   </tr>
         <tr>
     <td>TotalGBytes</td>
-    <td>Fig15</td> 
+    <td>Fig26</td> 
   </tr>
         <tr>
     <td>TotalTBytes</td>
     <td>Not to be displayed</td> 
   </tr>
   </table>
-<p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
+<p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec2.png)
 <h2>How to display the data</h2>
 <br>Combine all DiskName with same VMName under VMName on Web App
 
