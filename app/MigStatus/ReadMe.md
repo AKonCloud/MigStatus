@@ -170,7 +170,7 @@ Application to be run using Azure Web App with code stored and published from Gi
     <td>Not to be displayed</td> 
   </tr>
   </table>
-<p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec1.png)
+<p>![alt tag](https://raw.githubusercontent.com/AKonCloud/MigStatus/master/app/MigStatus/MigStatusSec2.png)
 <h2>How to display the data</h2>
 <br>Combine all DiskName with same VMName under VMName on Web App
 
